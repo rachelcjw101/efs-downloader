@@ -1,5 +1,7 @@
 # eFS Bulk Downloader
 
+.github/FUNDING.yml, paste buy_me_a_coffee: rachelcjw
+
 A free Chrome extension that bulk-downloads documents from the Malaysian Courts **e-Filing System (eFS)**, so you don't have to open and save each file one by one.
 
 It works in two places:
